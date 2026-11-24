@@ -1,0 +1,19 @@
+# результаты и служебные данные
+output/
+state/
+.cache/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+
+# IDE и система
+.idea/
+.DS_Store
+Thumbs.db
